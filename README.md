@@ -1,6 +1,11 @@
 # CourseGPT
+Let an LLM teach you anything in a systematic and elaborate manner in just a few clicks.
 
-Let ChatGPT to teach you anything in a systematic and elaborate manner in just a few clicks.
+### Installation
+- Clone this repository
+- Install Docker
+- Install Llama-GPT by following the instructions [here](http://github.com/getumbrel/llama-gpt)
+- More Instructions coming soon
 
 ### Demo
 [Here](https://coursegpt.vercel.app/)
@@ -23,6 +28,3 @@ Save the Outline and wait for the appl to generate
 
 Happy Learning!
 ![WhatsApp Image 2023-09-04 at 00 27 22](https://github.com/BlitzJB/CourseGPT/assets/88381529/3ca0d9e3-9ac7-45dc-acd0-b68bd9b2d473)
-
-### Collaboration
-Down to collaborate, shoot me a dm.
