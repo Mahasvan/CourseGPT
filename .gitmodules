@@ -1,0 +1,3 @@
+[submodule "llama-gpt"]
+	path = llama-gpt
+	url = https://github.com/getumbrel/llama-gpt
